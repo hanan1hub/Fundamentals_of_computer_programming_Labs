@@ -19,16 +19,26 @@ in this repository demonstrate practical applications of the concepts learned in
 
 ## 🗂 Repository Structure
 
-.
+Fundamentals-of-Computer-Programming/
+│
 ├── Labs/
-│ ├── Lab1/
-│ ├── Lab2/
-│ └── ...
+│   ├── Lab1/
+│   │   └── lab1.cpp
+│   ├── Lab2/
+│   │   └── lab2.cpp
+│   ├── Lab3/
+│   │   └── lab3.cpp
+│   └── ... (other labs)
+│
 ├── Assignments/
-│ ├── Assignment1/
-│ ├── Assignment2/
-│ └── ...
+│   ├── Assignment1/
+│   │   └── assignment1.cpp
+│   ├── Assignment2/
+│   │   └── assignment2.cpp
+│   └── ... (other assignments)
+│
 └── README.md
+
 
 - **Labs/** - Contains all laboratory exercises and code samples.  
 - **Assignments/** - Contains all assignments submitted during the semester.  
