@@ -1,7 +1,6 @@
 # Fundamentals of Computer Programming - First Semester (C++)
 
 Welcome to my repository containing all labs and assignments completed during the **Fundamentals of Computer Programming** course at **NUST** during my first semester.
-<br>
 This repository focuses on **C++ programming**, covering the fundamental concepts of programming including data types, loops, functions,and arrays.
 
 ---
@@ -14,7 +13,6 @@ This repository focuses on **C++ programming**, covering the fundamental concept
 **Programming Language:** C++  
 
 This course introduces students to programming logic, problem-solving, and C++ syntax. The assignments and lab exercises
-<br>
 in this repository demonstrate practical applications of the concepts learned in class.
 
 ---
